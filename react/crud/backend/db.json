@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Drausio A. Donini",
+      "email": "drausiodonini@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Hadriana de Oliveira",
+      "email": "hadriana.oliveira@hotmail.com"
+    },
+    {
+      "name": "teste 3",
+      "email": "teste3@teste.com",
+      "id": 4
+    },
+    {
+      "name": "Teste 4 ",
+      "email": "teste4@teste.com",
+      "id": 5
+    }
+  ]
+}
